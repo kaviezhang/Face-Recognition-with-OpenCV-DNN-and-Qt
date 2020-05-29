@@ -8,6 +8,7 @@ Face Recognition on Windows and Ubuntu Raspberry Pi platform. The process of rec
 
 
 <center>
+<img src="https://raw.githubusercontent.com/kaviezhang/Face-Recognition-with-OpenCV-DNN-and-Qt/master/README_md_files/Widget%205_29_2020%2011_09_50%20AM.png" width = 100% height = 100% />
 ![Main Widget](https://raw.githubusercontent.com/kaviezhang/Face-Recognition-with-OpenCV-DNN-and-Qt/master/README_md_files/Widget%205_29_2020%2011_09_50%20AM.png)
 <center>Main Widget</center>
 ![Edit Form](README_md_files/Widget%205_29_2020%2011_19_31%20AM.png?v=1&type=image)
