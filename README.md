@@ -6,7 +6,7 @@ Face Recognition on Windows and Ubuntu Raspberry Pi platform. The process of rec
 > Ubuntu OpenCV  
 > Windows minGW_build_OpenCV  
 
-
+## UI Display
 <center>
 <img src="https://raw.githubusercontent.com/kaviezhang/Face-Recognition-with-OpenCV-DNN-and-Qt/master/README_md_files/Widget%205_29_2020%2011_09_50%20AM.png" width=50% height=50%/>
 <center>Main Widget</center>
