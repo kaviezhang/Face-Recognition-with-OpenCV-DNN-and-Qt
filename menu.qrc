@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/src">
+        <file>img/backbutton.jpg</file>
+        <file>img/registion_notice.jpg</file>
+        <file>img/result_notice.jpg</file>
+        <file>img/deletebutton.jpg</file>
+        <file>img/updatebutton.jpg</file>
+        <file>img/addbutton.jpg</file>
+        <file>img/exitbutton.jpg</file>
+        <file>img/registionbutton.jpg</file>
+        <file>img/usernull.jpg</file>
+        <file>img/user1.jpg</file>
+        <file>img/user2.jpg</file>
+        <file>img/user3.jpg</file>
+        <file>img/user4.jpg</file>
+        <file>img/user5.jpg</file>
+        <file>img/user6.jpg</file>
+    </qresource>
+</RCC>
