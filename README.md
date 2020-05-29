@@ -2,11 +2,9 @@
 Face Recognition on Windows and Ubuntu Raspberry Pi platform. The process of recognition can be completed within 1 second on  a Ubuntu-cored FriendlyDesktop NanoPi device. And this project also support WiringPi control to access hardware such as GPIO/I2C/SPI/UART/PWM etc by edit wire.cpp and wire.h.
 
 ## Requirements
-> Qt5
-
-> Ubuntu OpenCV
-
-> Windows minGW_build_OpenCV
+> Qt5  
+> Ubuntu OpenCV  
+> Windows minGW_build_OpenCV  
 
 
 <center>
