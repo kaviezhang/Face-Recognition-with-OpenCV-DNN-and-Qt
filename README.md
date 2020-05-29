@@ -8,17 +8,21 @@ Face Recognition on Windows and Ubuntu Raspberry Pi platform. The process of rec
 
 
 <center>
-<img src="https://raw.githubusercontent.com/kaviezhang/Face-Recognition-with-OpenCV-DNN-and-Qt/master/README_md_files/Widget%205_29_2020%2011_09_50%20AM.png" width = 100% height = 100% />
-![Main Widget](https://raw.githubusercontent.com/kaviezhang/Face-Recognition-with-OpenCV-DNN-and-Qt/master/README_md_files/Widget%205_29_2020%2011_09_50%20AM.png)
+<img src="https://raw.githubusercontent.com/kaviezhang/Face-Recognition-with-OpenCV-DNN-and-Qt/master/README_md_files/Widget%205_29_2020%2011_09_50%20AM.png" width=50% height=50%/>
 <center>Main Widget</center>
-![Edit Form](README_md_files/Widget%205_29_2020%2011_19_31%20AM.png?v=1&type=image)
+
+<img src="https://raw.githubusercontent.com/kaviezhang/Face-Recognition-with-OpenCV-DNN-and-Qt/master/README_md_files/Widget%205_29_2020%2011_10_17%20AM.png" width=50% height=50%/>
 <center>Edit Form</center>
-![Choose Form](README_md_files/Widget%205_29_2020%2011_10_17%20AM.png?v=1&type=image)
+
+<img src="https://raw.githubusercontent.com/kaviezhang/Face-Recognition-with-OpenCV-DNN-and-Qt/master/README_md_files/Widget%205_29_2020%2011_10_31%20AM.png" width=50% height=50%/>
 <center>Choose Form</center>
-![Registion Form](README_md_files/Widget%205_29_2020%2011_10_31%20AM.png?v=1&type=image)
+
+<img src="https://raw.githubusercontent.com/kaviezhang/Face-Recognition-with-OpenCV-DNN-and-Qt/master/README_md_files/Widget%205_29_2020%2011_19_31%20AM.png" width=50% height=50%/>
 <center>Registion Form</center>
-![Result Form](README_md_files/Widget%205_29_2020%2012_45_42%20PM.png?v=1&type=image)
+
+<img src="https://raw.githubusercontent.com/kaviezhang/Face-Recognition-with-OpenCV-DNN-and-Qt/master/README_md_files/Widget%205_29_2020%2012_45_42%20PM.png" width=50% height=50%/>
 <center>Result Form</center>
+
 </center>
 
 
