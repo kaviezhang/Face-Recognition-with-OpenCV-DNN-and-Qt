@@ -3,7 +3,9 @@ Face Recognition on Windows and Ubuntu Raspberry Pi platform. The process of rec
 
 ## Requirements
 > Qt5
+
 > Ubuntu OpenCV
+
 > Windows minGW_build_OpenCV
 
 
